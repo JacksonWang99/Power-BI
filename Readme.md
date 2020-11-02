@@ -28,3 +28,5 @@ The fundamental Power BI building block are:
 	Reports
 	Dashboards
 	Tiles
+## Start Work
+   ### Read and Understand Data
