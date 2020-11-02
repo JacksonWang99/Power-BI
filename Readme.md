@@ -13,14 +13,14 @@ Microsoft offers three types of Power BI platforms:
 	Power BI Mobile (For iOS and Android devices)
 we can deploy Power BI on both on-premise and on-cloud platforms.
 
-##Some typical popular BI tools
+## Some typical popular BI tools
 	Power BI
 	Tableau
 	Google data studio
 	Zoho analytics
 	https://www.selecthub.com/business-intelligence-tools/
 
-##Power BI Building Blocks
+## Power BI Building Blocks
 The fundamental Power BI building block are:
 
 	Visualizations
