@@ -30,3 +30,6 @@ The fundamental Power BI building block are:
 	Tiles
 ## Start Work
    ### Read and Understand Data
+   	1. Check these data, relation, Column attributes. 
+	2. Consider what information do you want to demo and what information need to put important position.
+	3. Design your report structure.
