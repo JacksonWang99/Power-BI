@@ -7,6 +7,11 @@ and utilizing it to make reports and informative graphics for data analysis.
 	Power BI Mobile (For iOS and Android devices)
 we can deploy Power BI on both on-premise and on-cloud platforms.
 
+## What I Did
+	* Covid-19 Global Visualization Report
+	* Tesla Stock Price Forecasting analysis
+	* UK Bank Customer Modeling Report
+
 ## Some typical popular BI tools
 	Power BI, Tableau, Google data studio, Zoho analytics
 	https://www.selecthub.com/business-intelligence-tools/
