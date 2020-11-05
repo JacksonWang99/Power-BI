@@ -36,3 +36,8 @@ The fundamental Power BI building block are:
    ### Get Data
    	CSV
 	Connect database,skilia, AWS
+	
+   ### Modeling
+   	1. Regression -> Craydec regression
+	2. Clustering with outlier detection 聚类异常检测
+	3. Decision tree visualisation
