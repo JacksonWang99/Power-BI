@@ -31,6 +31,6 @@ The fundamental Power BI building block are:
    ### Modeling
    	1. Regression -> Craydec regression
 	2. Clustering with outlier detection 聚类异常检测
-	3. Decision tree visualisation
+	3. Decision tree visualisation -> Tree paramaters
 	4. Time Series Forecasting Chart
 	5. Forecast using multiple models by maq software
